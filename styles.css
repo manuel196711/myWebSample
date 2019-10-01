@@ -41,6 +41,7 @@ body{
 }
 	#nav ul{}
 		#nav ul li{
+
 			display: inline-block;
 			height: 62px;
 		}
